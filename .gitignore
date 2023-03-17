@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+./Homo_sapiens.GRCh38.103.gtf
+./Homo_sapiens.GRCh38.109.gtf/Homo_sapiens.GRCh38.109.gtf

@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 ./Homo_sapiens.GRCh38.103.gtf
 ./Homo_sapiens.GRCh38.109.gtf/Homo_sapiens.GRCh38.109.gtf
+./Homo_sapiens.GRCh38.103.chr.gtf
+./Homo_sapiens.GRCh38.103.chr.gtf/Homo_sapiens.GRCh38.103.chr.gtf
+./Homo_sapiens.GRCh38.103.chr.gtf.gz
